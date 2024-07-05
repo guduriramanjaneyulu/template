@@ -1,0 +1,367 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    height: 100hv;
+}
+
+.page {
+    height: 550px;
+    background-color: rgba(140, 139, 139, 0.981);
+}
+
+nav {
+    display: flex;
+    font-size: xx-large;
+}
+
+h3 {
+    margin-left: 52%;
+}
+
+.page1 {
+    margin-left: 60%;
+    margin-top: 6%;
+    color: white;
+    font-size: x-large;
+}
+
+.page1 input {
+    width: 50%;
+    height: 35px;
+    border: none;
+    border-radius: 50px;
+}
+
+.rk {
+    width: 80px;
+    height: 30px;
+    background-color: rgba(7, 7, 161, 0.637);
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: 5s;
+}
+.rk:hover{
+    background-color: gold;
+}
+
+h5 {
+    padding-left: 17%;
+
+}
+
+.ram img {
+    padding-left: 10%;
+    margin-top: -30%;
+}
+
+.page2 {
+    margin-top: 5%;
+    height: 390px;
+}
+
+.page3 {
+    /* border: 2px solid red; */
+    height: 200px;
+    width: 18%;
+    margin-left: 110px;
+    margin-top: 80px;
+    float: left;
+}
+
+.page3 h2 {
+    text-align: center;
+}
+
+.pag3 p {
+    font-size: 20px;
+}
+
+.page4 {
+    /* border: 2px solid red; */
+    height: 200px;
+    width: 18%;
+    margin-left: 630px;
+    margin-top: 79px;
+}
+
+.page4 h2 {
+    text-align: center;
+}
+
+.pag4 p {
+    font-size: 20px;
+}
+
+.page5 {
+    /* border: 2px solid red; */
+    height: 200px;
+    width: 18%;
+    margin-left: 1090px;
+    margin-top: -198px;
+}
+
+.page5 h2 {
+    text-align: center;
+}
+
+.pag5 p {
+    font-size: 20px;
+}
+
+.rk1 {
+    width: 100px;
+    height: 30px;
+    margin-left: 46%;
+    background-color: rgb(21, 21, 105);
+}
+
+.page6 {
+    background-color: rgba(198, 191, 191, 0.319);
+    height: 500px;
+    padding-top: 4%;
+}
+
+.ram1 {
+    margin-top: -5%;
+    margin-left: 10%;
+}
+
+.ram2 {
+    margin-left: 65%;
+    margin-top: -30%;
+}
+
+.ramu {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.ramu i {
+    margin-left: -50px;
+    font-size: xx-large;
+    margin-top: -40px;
+}
+
+.ramu1 {
+    margin-left: 22px;
+}
+
+.page7 {
+    height: 490px;
+    background-color: grey;
+}
+
+.page7 i {
+    margin-top: 19%;
+    padding-left: 90px;
+    font-size: x-large;
+}
+
+.ramu2 i {
+    padding-top: -50%;
+}
+
+.ramu3 {
+    /* border: 2px solid black;  */
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 0%;
+    float: left;
+    background-color: white;
+}
+
+.ramu3 h1 {
+    text-align: center;
+    width: 100%;
+}
+
+.ramu4 i {
+    margin-left: 40%;
+    margin-top: 10%;
+    padding-right: 6%;
+    padding-left: 2%;
+    border: 2px solid black;
+    height: 28px;
+    width: 11px;
+    padding-top: 2%;
+    border-radius: 40px;
+}
+
+.ramu4 {
+    margin-left: 10%;
+    /* border: 2px solid black; */
+    width: 300px;
+    height: 340px;
+    padding-top: -100%;
+    margin-top: -3%;
+    float: left;
+    background-color: white;
+}
+
+.ramu4 h1 {
+    padding-left: 60px;
+}
+
+.card {
+    margin-top: 40px;
+    margin-left: 90px;
+    width: 100px;
+    height: 30px;
+    background-color: rgba(17, 17, 74, 0.673);
+}
+
+.ramu5 {
+    margin-left: 70%;
+    padding-top: 2%;
+    /* border: 2px solid black; */
+    height: 220px;
+    width: 300px;
+    text-align: center;
+    margin-top: -10%;
+    background-color: white;
+}
+
+.ramu5 h2 {
+    margin-left: 85%;
+    margin-top: -20%;
+}
+
+.page8 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    background-color: rgb(24, 23, 23);
+    color: white;
+}
+
+.page8 p {
+    margin-top: 10px;
+    color: white;
+}
+
+.page9 {
+    text-align: center;
+    margin-top: 13px;
+    height: 60px;
+}
+
+.page9 input {
+    width: 250px;
+    height: 28px;
+}
+
+.card1 {
+    width: 100px;
+    height: 32px;
+    margin-left: 10px;
+    background-color: rgb(29, 29, 134);
+}
+
+.page10 {
+    height: 500px;
+    text-align: center;
+}
+
+.ramu6 {
+    /* border: 2px solid; */
+    margin-left: 200px;
+    margin-top: 70px;
+    width: 30%;
+    height: 250px;
+    padding-top: 50px;
+    background-color: gray;
+    float: left;
+}
+
+.ramu7 {
+    /* border: 2px solid; */
+    margin-left: 750px;
+    width: 600px;
+    height: 250px;
+    margin-top: 71px;
+    padding-top: 50px;
+    background-color: rgba(150, 150, 183, 0.266);
+}
+
+.ramu8 {
+    /* border: 2px solid; */
+    width: 375px;
+    height: 300px;
+    margin-left: 200px;
+    margin-top: -70px;
+    padding-left: 80px;
+    background-color: grey;
+    float: left;
+}
+
+.ramu9 {
+    /* border: 2px solid; */
+    margin-left: 750px;
+    margin-top: -70px;
+    width: 600px;
+    height: 300px;
+    background-color: rgba(122, 122, 120, 0.419);
+}
+
+.ramu10 {
+    float: left;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.page11 {
+    text-align: center;
+    background-color: rgb(222, 216, 216);
+}
+
+.page12 {
+    display: flex;
+}
+
+.ramu11 {
+    /* border: 2px solid; */
+    width: 300px;
+    height: 180px;
+    margin-left: 150px;
+    margin-top: 40px;
+    padding-top: 20px;
+    background-color: rgba(216, 191, 216, 0.973);
+}
+
+.sub {
+    width: 100px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: blue;
+    border: none;
+}
+
+.page15 {
+    text-align: center;
+    height: 300px;
+    margin-top: 30px;
+}
+
+.gr {
+    width: 100px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: blue;
+    border: none;
+}
+
+.page16 {
+    text-align: center;
+    background-color: rgb(16, 16, 165);
+    color: white;
+}
+
